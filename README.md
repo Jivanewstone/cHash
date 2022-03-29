@@ -1,4 +1,5 @@
 # cHash
+Used Delphi Default Libraries
 cHash is a command Line tool that can be used to generate various hashes for a given folder.
 Supported algorithms are SHA224, SHA256, SHA384, SHA512, SHA512_224, SHA512_256.
 
